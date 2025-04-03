@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nandanbhandary24@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10tlbMu9Dp485-vJ6Woy0zF63XV3gqO14/view?usp=sharing](https://drive.google.com/file/d/1Ws1SKyNJifayi1LoPHAyLr1XAs5Q6wOU/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1H0kbT3-WEC7rfLDmEH0umfvww9my7XiK/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
