@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # 🔥 IMPORTANT (fixes error 128)
+  contents: write
 
 jobs:
   build:
@@ -18,8 +18,8 @@ jobs:
           github_user_name: nandanbhandary1
           outputs: dist/snake.svg
 
-      - name: Push to output branch
-        uses: peaceiris/actions-gh-pages@v4   # ✅ UPDATED ACTION
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
