@@ -68,7 +68,7 @@
 ###
 
 <div align="left">
-  <a href="https://mail.google.com/Nandan" target="_blank">
+  <a href="mailto:nandanbhandary24@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/nandan-bhandary/" target="_blank">
@@ -87,18 +87,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/nandanbhandary1/nandanbhandary1/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/nandanbhandary1/nandanbhandary1/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/nandanbhandary1/nandanbhandary1/output/snake.svg" alt="Snake animation" />
-
-###
-
-###
 
 <div align="left">
 </div>
