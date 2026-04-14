@@ -18,9 +18,10 @@ jobs:
           github_user_name: nandanbhandary1
           outputs: dist/snake.svg
 
-      - name: Deploy to output branch
+      - name: Deploy snake
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
+          keep_files: true   # 🔥 IMPORTANT
