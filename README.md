@@ -87,7 +87,7 @@
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="itch logo"  />
   </a>
 <a href="https://portfolio-frontend-31il.vercel.app/" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpMv3MtbEfzGyDzWjYqFoKVcveG6AovL6gpg&s" height="35" alt="paypal logo"  />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
   </a>
 </div>
 
