@@ -86,7 +86,7 @@
   <a href="https://leetcode.com/u/nandan_bhandary/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="itch logo"  />
   </a>
-<a href="https://portfolio-frontend-31il.vercel.app/" target="_blank">
+<a href="https://portfolio-nandan.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
   </a>
 </div>
