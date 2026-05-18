@@ -99,7 +99,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/nandanbhandary1/nandanbhandary1/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/nandanbhandary1/nandanbhandary1/output/snake.svg" alt="Snake animation" /> -->
 
 <div align="left">
 </div>
