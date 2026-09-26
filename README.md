@@ -1,18 +1,5 @@
 <h2 align="left">Hi 👋! My name is Nandan and I'm a Software Engineer!</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nandanbhandary1&show_icons=true&theme=radical" height="150"/>
-  
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nandanbhandary1&layout=compact&theme=radical" height="150"/>
-</div>
-
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
